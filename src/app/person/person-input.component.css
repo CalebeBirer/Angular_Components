@@ -1,0 +1,8 @@
+label, input, button{
+    display: block;
+}
+
+button{
+    padding: 10px;
+    background-color: blue;
+}

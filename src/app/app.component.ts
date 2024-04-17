@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   constructor() {}
+
+  person: string[] =['name1', 'name2', 'name3']; //criando lista 
 }
